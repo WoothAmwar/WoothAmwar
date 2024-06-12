@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @WoothAmwar
-- 👀 I’m interested in Web Development with React and Python
+- 👀 I’m interested in Web Development with React and Python as well as Machine Learning with Python
 - 🌱 I’m currently learning React and Web Development and Python Data Science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
