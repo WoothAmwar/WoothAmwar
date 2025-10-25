@@ -1,5 +1,4 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anwar-kader)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/WoothAmwar)
 [![Email](https://img.shields.io/badge/Email-aikader%40uchicago.edu-red?style=flat&logo=gmail&logoColor=white)](mailto:aikader@uchicago.edu)
 
 🎓 **Computer Science @ University of Chicago (Class of 2028)**  
